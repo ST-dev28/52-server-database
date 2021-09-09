@@ -1,5 +1,7 @@
 ## paskaitu irasai
 
+## (shared excel) https://docs.google.com/spreadsheets/d/1dgpeaA_baWhcCWhBfrfvdER6jVSQf1Y5lX6SwNs3HUc/edit#gid=347484857
+
 ## 1. https://www.youtube.com/watch?v=ps65sx0Y1HE&list=PLcLHBZr0jPAC5d8qT3Axq30YPnXTfkjhQ&index=154&ab_channel=RimantasBelovas
 
 ## 2. https://www.youtube.com/watch?v=vVO5pOHDSok&list=PLcLHBZr0jPAC5d8qT3Axq30YPnXTfkjhQ&index=155&ab_channel=RimantasBelovas
